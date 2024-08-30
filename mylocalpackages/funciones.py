@@ -1988,7 +1988,7 @@ def hacer_preguntas(storageId, pags, eliminarPaginas, pdf_url,):
     # Vamos a crear la referencia al storage:
     config = {
         "apiKey": "",
-        "authDomain": ",
+        "authDomain": "",
         "databaseURL": "",
         "projectId": "",
         "storageBucket": "",

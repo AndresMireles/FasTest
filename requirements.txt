@@ -1,0 +1,7 @@
+Flask==1.1.2
+requests==2.24.0
+Pyrebase4==4.4.1
+beautifulsoup4==4.8.0
+lxml==4.5.1
+google-auth==1.23.0
+flask-limiter==1.4

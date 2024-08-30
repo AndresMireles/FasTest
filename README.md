@@ -1,6 +1,6 @@
-# FasTest Backend
+# FasTest
 
-This repository contains the backend for **FasTest**, a mobile application designed to read files uploaded by users and generate tests based on the content. The backend processes the text from these files, analyzes it, and creates a variety of questions, which are then used to generate the test.
+This repository contains the backend for **FasTest**, a mobile application designed to read files uploaded by users and generate tests based on the content. The backend utilizes **Natural Language Processing (NLP)** and similar advanced techniques to process the text, analyze it, and create various types of questions, which are then used to generate the test.
 
 ## Overview
 
